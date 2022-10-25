@@ -1,1 +1,1 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/src/github.com/usr1/beyond-tutorial","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"C:/src/github.com/usr1/beyond-tutorial","disabled":false,"__vagrantfile":true}}}
